@@ -1,1 +1,1 @@
-# Interpreting-the-dynamic-pathogenesis-of-Parkinson-s-disease-by-case-control-and-longitudinal-blood-
+# This repository contains the R codes that were used in analyses in papers "Interpreting the dynamic pathogenesis of Parkinson’s disease by case-control and longitudinal blood transcriptome analyses".
