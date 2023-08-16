@@ -1,1 +1,2 @@
-# PD
+# This repository contains the R codes that were used in analyses in papers "Interpreting the dynamic pathogenesis of Parkinson’s disease by case-control and longitudinal blood transcriptome analyses".
+NOTE: Data used in this study were obtained from the Parkinson’s Progression Markers Initiative (PPMI) database (www.ppmiinfo.org/data). For up-to-date information on the study, please visit www.ppmiinfo.org.
